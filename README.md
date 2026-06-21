@@ -6,11 +6,24 @@
 
 * This project is a PCB redesign of the open-source CNCU-01 controller board.
 
-* The original design was implemented as a 2-layer PCB. In this project, the board was migrated to a 4-layer stackup to improve routing quality, power integrity, and manufacturability.
+* The original design was implemented as a 2-layer PCB. In this project, the board was redesigned into a 4-layer stackup to improve routing flexibility, power distribution, and signal routing quality.
 
 ## Layer Stackup
 
 ![Layer Stackup](docs/PCB_STACKUP.png)
+
+## Differential Pair Calculation (SI9000)
+* Differential impedance: 100Ω
+
+![Layer Stackup](docs/SI9000_D100.png)
+
+* Differential impedance: 90Ω
+
+![Layer Stackup](docs/SI9000_D90.png)
+
+* Single-ended impedance: 50Ω
+
+![Layer Stackup](docs/SI9000_S50.png)
 
 ## My Contributions
 
