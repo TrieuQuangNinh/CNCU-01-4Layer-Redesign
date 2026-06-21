@@ -13,13 +13,15 @@
 ![Layer Stackup](docs/PCB_STACKUP.png)
 
 ## Differential Pair Calculation (SI9000)
-Differential impedance: 100Ω
+* Differential impedance: 100Ω
 
 ![Layer Stackup](docs/SI9000_D100.png)
-Differential impedance: 90Ω
+
+* Differential impedance: 90Ω
 
 ![Layer Stackup](docs/SI9000_D90.png)
-Single-ended impedance: 50Ω
+
+* Single-ended impedance: 50Ω
 
 ![Layer Stackup](docs/SI9000_S50.png)
 
