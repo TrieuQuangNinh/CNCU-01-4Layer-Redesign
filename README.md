@@ -2,6 +2,16 @@
 
 ![PCB 3D](docs/PCB_3D.png)
 
+## PCB Layout
+
+### Top View
+
+![TopLayer](docs/TopLayer.png)
+
+### Bottom View
+
+![BotLayer](docs/BotLayer.png)
+
 ## Overview
 
 * This project is a PCB redesign of the open-source CNCU-01 controller board.
