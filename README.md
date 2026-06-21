@@ -2,13 +2,7 @@
 
 ![PCB 3D](docs/PCB_3D.png)
 
-## PCB Layout
-
-### Top View
-
 ![TopLayer](docs/TopLayer.png)
-
-### Bottom View
 
 ![BotLayer](docs/BotLayer.png)
 
