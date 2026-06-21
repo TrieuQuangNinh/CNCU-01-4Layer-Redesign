@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=  NewDesignator=C33
+Change Component Designator: OldDesignator=l NewDesignator=R54
+Added Component: Designator=R52(R_SMD0805)
+Added Pin To Net: NetName=NetD10_27 Pin=R52-1
+Added Pin To Net: NetName=3V3 Pin=R52-2
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component C33 0805 100nF
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component R52 0805 2k 1%
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component VD3 VS-30BQ040
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component X3 DS1021_1x2

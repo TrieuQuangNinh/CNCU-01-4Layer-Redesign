@@ -1,0 +1,127 @@
+Change Component Footprint: Designator=R26 Old Footprint=C_SMD0805 New Footprint=R_SMD0805
+Change Component Footprint: Designator=R31 Old Footprint=C_SMD0805 New Footprint=R_SMD0805
+Change Component Footprint: Designator=C53 Old Footprint=CAP SMD1206 New Footprint=C_SMD1206
+Change Component Footprint: Designator=L2 Old Footprint=CM453232-101KL New Footprint=INDPM4532
+Change Component Footprint: Designator=BQ1 Old Footprint=FC-135 New Footprint=R_SMD0805
+Change Component Footprint: Designator=HL1 Old Footprint=LED3mm New Footprint=LED0254
+Change Component Footprint: Designator=HL4 Old Footprint=LED3mm New Footprint=LED0254
+Change Component Footprint: Designator=HL5 Old Footprint=LED3mm New Footprint=LED0254
+Change Component Footprint: Designator=HL6 Old Footprint=LED3mm New Footprint=LED0254
+Change Component Footprint: Designator=C7 Old Footprint=SMD_ELC_CAP New Footprint=EEEFK1H221P
+Change Component Footprint: Designator=C13 Old Footprint=SMD_ELC_CAP New Footprint=EEEFK1H221P
+Change Component Footprint: Designator=D3 Old Footprint=SOIC-12 New Footprint=SOIC8 (SO-8)
+Change Component Comment: Designator=R25 Old Comment=0805 (240 1%) New Comment=0805
+Change Component Comment: Designator=R39 Old Comment=0603 1k New Comment=0603
+Change Component Comment: Designator=C32 Old Comment=0603 2.2uF New Comment=0603
+Change Component Comment: Designator=R44 Old Comment=0603 4.7k 1% New Comment=0603
+Change Component Comment: Designator=C6 Old Comment=0805 0.1uF 50V New Comment=0805
+Change Component Comment: Designator=C46 Old Comment=0805 0.1uF New Comment=0805
+Change Component Comment: Designator=C47 Old Comment=0805 0.1uF New Comment=0805
+Change Component Comment: Designator=C48 Old Comment=0805 0.1uF New Comment=0805
+Change Component Comment: Designator=C49 Old Comment=0805 0.1uF New Comment=0805
+Change Component Comment: Designator=C52 Old Comment=0805 0.1uF New Comment=0805
+Change Component Comment: Designator=R3 Old Comment=0805 0 / (10k) New Comment=0805
+Change Component Comment: Designator=R26 Old Comment=0805 0 Ohm New Comment=0805
+Change Component Comment: Designator=R45 Old Comment=0805 1.5k New Comment=0805
+Change Component Comment: Designator=R30 Old Comment=0805 1M New Comment=0805
+Change Component Comment: Designator=C34 Old Comment=0805 2.2uF New Comment=0805
+Change Component Comment: Designator=R35 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R42 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R43 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R46 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R47 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R48 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R49 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R50 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R52 Old Comment=0805 2k 1% New Comment=0805
+Change Component Comment: Designator=R68 Old Comment=1206 1M New Comment=1206
+Change Component Comment: Designator=R8 Old Comment=2512 1.5k 1% New Comment=2512
+Change Component Comment: Designator=R10 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R11 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R12 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R13 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R14 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R15 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R17 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R18 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R29 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R38 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R41 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R54 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R55 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R56 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R57 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R59 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R60 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R62 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R64 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R66 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=R67 Old Comment=0603 10k New Comment=0603
+Change Component Comment: Designator=C1 Old Comment=0603 10uF New Comment=0603
+Change Component Comment: Designator=C15 Old Comment=0603 15pF New Comment=0603
+Change Component Comment: Designator=C16 Old Comment=0603 15pF New Comment=0603
+Change Component Comment: Designator=R6 Old Comment=0603 27 New Comment=0603
+Change Component Comment: Designator=R7 Old Comment=0603 27 New Comment=0603
+Change Component Comment: Designator=R16 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=R19 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=R28 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=R36 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=R37 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=R40 Old Comment=0805 10k New Comment=0805
+Change Component Comment: Designator=C45 Old Comment=0805 15pF New Comment=0805
+Change Component Comment: Designator=C37 Old Comment=0805 22pF New Comment=0805
+Change Component Comment: Designator=C38 Old Comment=0805 22pF New Comment=0805
+Change Component Comment: Designator=R27 Old Comment=0805 47 New Comment=0805
+Change Component Comment: Designator=C4 Old Comment=0805 47pF New Comment=0805
+Change Component Comment: Designator=C5 Old Comment=0805 47pF New Comment=0805
+Change Component Comment: Designator=R58 Old Comment=0805 51 New Comment=0805
+Change Component Comment: Designator=R61 Old Comment=0805 51 New Comment=0805
+Change Component Comment: Designator=R63 Old Comment=0805 51 New Comment=0805
+Change Component Comment: Designator=R65 Old Comment=0805 51 New Comment=0805
+Change Component Comment: Designator=R1 Old Comment=0603 100k New Comment=0603
+Change Component Comment: Designator=R2 Old Comment=0603 100k New Comment=0603
+Change Component Comment: Designator=R5 Old Comment=0603 100k New Comment=0603
+Change Component Comment: Designator=C2 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C3 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C10 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C11 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C22 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C24 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C27 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C35 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=C44 Old Comment=0603 100nF New Comment=0603
+Change Component Comment: Designator=R21 Old Comment=0603 120 New Comment=0603
+Change Component Comment: Designator=R53 Old Comment=0603 18 1% New Comment=0603
+Change Component Comment: Designator=R20 Old Comment=0603 560 New Comment=0603
+Change Component Comment: Designator=R22 Old Comment=0603 560 New Comment=0603
+Change Component Comment: Designator=R31 Old Comment=0805 100k New Comment=0805
+Change Component Comment: Designator=C8 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C9 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C12 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C14 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C21 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C28 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C29 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C30 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C33 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C36 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C39 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C40 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C41 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C42 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C43 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C50 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=C51 Old Comment=0805 100nF New Comment=0805
+Change Component Comment: Designator=R9 Old Comment=0805 120 New Comment=0805
+Change Component Comment: Designator=R23 Old Comment=0805 200 New Comment=0805
+Change Component Comment: Designator=R24 Old Comment=0805 200 New Comment=0805
+Change Component Comment: Designator=R69 Old Comment=0805 240 New Comment=0805
+Change Component Comment: Designator=R70 Old Comment=0805 240 New Comment=0805
+Change Component Comment: Designator=C53 Old Comment=1206 100pF 1000V New Comment=1206
+Change Component Comment: Designator=S1 Old Comment=1437566-3 (FSMSM) New Comment=1437566-3
+Change Component Comment: Designator=R51 Old Comment=0603 150 1% New Comment=0603
+Change Component Comment: Designator=R32 Old Comment=0805 130 1% New Comment=0805
+Change Component Comment: Designator=R33 Old Comment=0805 130 1% New Comment=0805
+Change Component Comment: Designator=R34 Old Comment=0805 130 1% New Comment=0805
+Change Component Comment: Designator=D10 Old Comment=DP83848IVV (DP83848CVVNOPB) New Comment=DP83848CVVNOPB
+Change Component Comment: Designator=BQ1 Old Comment=FC-135_32.768KHZ-12.5 New Comment=0805

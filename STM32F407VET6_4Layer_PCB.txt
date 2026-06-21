@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : D:\Project_Altium\STM32F407VET6_4Layer\STM32F407VET6_4Layer_PCB.PcbDoc
+Date         : 6/4/2026
+Time         : 3:00:03 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 86mmx80mm
+    Components on board, 172
+count : 2
+
+Routing Information
+    Routing completion, 0.00%
+    Connections, 463
+    Connections routed, 0
+    Connections remaining, 463
+count : 4

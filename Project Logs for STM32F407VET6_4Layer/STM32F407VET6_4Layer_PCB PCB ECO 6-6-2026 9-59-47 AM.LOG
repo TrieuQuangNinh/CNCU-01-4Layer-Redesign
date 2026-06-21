@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=3 NewDesignator=C5
+Change Component Designator: OldDesignator=ll NewDesignator=VD2
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component C2 0603 100nF
+Added Member To Class: ClassName=STM32F407VET6_4Layer_Sheet Member=Component C19 TECAP_D 16V 100uF
+Added Room: Name=STM32F407VET6_4Layer_Sheet
