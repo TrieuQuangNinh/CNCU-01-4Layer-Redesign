@@ -14,13 +14,18 @@ The original design was migrated from a 2-layer PCB to a 4-layer stackup.
 
 ## My Contributions
 
-- Migrated PCB from 2 layers to 4 layers
-- Defined PCB stackup
-- Calculated controlled impedance using SI9000
-- Configured differential pair routing
-- Performed DRC verification
+* Migrated the original PCB from 2 layers to 4 layers
+* Defined a new PCB stackup
+* Calculated controlled impedance traces using SI9000
+* Configured differential pair routing rules
+* Optimized power and ground planes
 
 ## Tools
 
 - Altium Designer
 - SI9000
+
+## Reference
+
+Original project:
+https://github.com/MikhailBerezhanov/CNCU-01
