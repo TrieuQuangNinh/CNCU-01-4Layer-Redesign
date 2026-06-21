@@ -1,0 +1,14 @@
+DRC Rules Export File for PCB: D:\Project_Altium\STM32F407VET6_4Layer\STM32F407VET6_4Layer_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_GROUND|Scope=Board|Minimum=9.06
+RuleKind=Width|RuleName=Width_POWER|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width_DIFF|Scope=Board|Minimum=5.12
+RuleKind=Width|RuleName=Width_DIFF90|Scope=Board|Minimum=5.12
+RuleKind=Width|RuleName=Width_DIFF100|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_DIFF|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_DIFF90|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_DIFF100|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.68
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
