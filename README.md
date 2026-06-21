@@ -4,9 +4,9 @@
 
 ## Overview
 
-This project is a PCB redesign of the open-source CNCU-01 controller board.
+* This project is a PCB redesign of the open-source CNCU-01 controller board.
 
-The original design was migrated from a 2-layer PCB to a 4-layer stackup.
+* The original design was implemented as a 2-layer PCB. In this project, the board was migrated to a 4-layer stackup to improve routing quality, power integrity, and manufacturability.
 
 ## Layer Stackup
 
