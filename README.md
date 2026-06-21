@@ -1,10 +1,16 @@
 # CNCU-01 4-Layer PCB Redesign
 
+![PCB 3D](docs/PCB_3D.png)
+
 ## Overview
 
-This project is a PCB redesign of the open-source CNCU-01 controller board.
+* This project is a PCB redesign of the open-source CNCU-01 controller board.
 
-The original design was implemented as a 2-layer PCB. In this project, the board was migrated to a 4-layer stackup to improve routing quality, power integrity, and manufacturability.
+* The original design was implemented as a 2-layer PCB. In this project, the board was migrated to a 4-layer stackup to improve routing quality, power integrity, and manufacturability.
+
+## Layer Stackup
+
+![Layer Stackup](docs/PCB_STACKUP.png)
 
 ## My Contributions
 
@@ -16,8 +22,8 @@ The original design was implemented as a 2-layer PCB. In this project, the board
 
 ## Tools
 
-* Altium Designer
-* SI9000 Impedance Calculator
+- Altium Designer
+- SI9000
 
 ## Reference
 
