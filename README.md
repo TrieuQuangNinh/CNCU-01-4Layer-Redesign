@@ -13,8 +13,6 @@ The original design was implemented as a 2-layer PCB. In this project, the board
 * Calculated controlled impedance traces using SI9000
 * Configured differential pair routing rules
 * Optimized power and ground planes
-* Performed PCB layout verification and DRC checks
-* Generated manufacturing files for PCB fabrication
 
 ## Tools
 
