@@ -60,8 +60,3 @@ Generated outputs:
 
 - Altium Designer
 - SI9000
-
-## Reference
-
-Original project:
-https://github.com/MikhailBerezhanov/CNCU-01
